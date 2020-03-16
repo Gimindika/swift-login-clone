@@ -48,8 +48,10 @@ const Footer = () => {
 
       <style jsx>{`
         .container-main {
-          bottom: 0;
           position: absolute;
+          bottom: 0;
+          right:0;
+          left:0;
           width: 100%;
           display: flex;
           justify-content: space-around;

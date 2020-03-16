@@ -83,7 +83,7 @@ const HomePage = () => {
           width: 50%;
           font-size: 1.25em;
           margin: 0;
-          padding:.5em;
+          padding: 0.5em;
         }
 
         button {
